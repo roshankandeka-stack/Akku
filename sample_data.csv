@@ -1,0 +1,51 @@
+Date,Product,Category,Sales,Quantity,Region,Customer_Type,Profit_Margin
+01-01-2024,Laptop,Electronics,1200,2,North,Corporate,0.25
+02-01-2024,Phone,Electronics,800,5,South,Individual,0.3
+03-01-2024,Tablet,Electronics,600,3,East,Corporate,0.28
+04-01-2024,Headphones,Electronics,150,10,West,Individual,0.4
+05-01-2024,Monitor,Electronics,400,2,North,Corporate,0.22
+06-01-2024,Keyboard,Accessories,80,15,South,Individual,0.45
+07-01-2024,Mouse,Accessories,50,20,East,Individual,0.5
+08-01-2024,USB Cable,Accessories,30,30,West,Individual,0.6
+09-01-2024,Phone Case,Accessories,25,50,North,Individual,0.65
+10-01-2024,Screen Protector,Accessories,15,100,South,Individual,0.7
+11-01-2024,Office Chair,Furniture,300,1,East,Corporate,0.18
+12-01-2024,Desk,Furniture,500,1,West,Corporate,0.2
+13-01-2024,Bookshelf,Furniture,250,2,North,Individual,0.25
+14-01-2024,Lamp,Furniture,120,3,South,Individual,0.35
+15-01-2024,Stool,Furniture,100,4,East,Individual,0.4
+16-01-2024,Laptop,Electronics,1200,2,West,Corporate,0.25
+17-01-2024,Phone,Electronics,850,4,North,Individual,0.3
+18-01-2024,Tablet,Electronics,620,2,South,Corporate,0.28
+19-01-2024,Headphones,Electronics,160,8,East,Individual,0.4
+20-01-2024,Monitor,Electronics,420,1,West,Corporate,0.22
+21-01-2024,Keyboard,Accessories,85,12,North,Individual,0.45
+22-01-2024,Mouse,Accessories,55,18,South,Individual,0.5
+23-01-2024,USB Cable,Accessories,32,28,East,Individual,0.6
+24-01-2024,Phone Case,Accessories,28,45,West,Individual,0.65
+25-01-2024,Screen Protector,Accessories,18,95,North,Individual,0.7
+26-01-2024,Office Chair,Furniture,320,1,South,Corporate,0.18
+27-01-2024,Desk,Furniture,520,1,East,Corporate,0.2
+28-01-2024,Bookshelf,Furniture,260,2,West,Individual,0.25
+29-01-2024,Lamp,Furniture,130,3,North,Individual,0.35
+30-01-2024,Stool,Furniture,110,4,South,Individual,0.4
+01-02-2024,Laptop,Electronics,1100,3,East,Corporate,0.25
+02-02-2024,Phone,Electronics,900,3,West,Individual,0.3
+03-02-2024,Tablet,Electronics,580,4,North,Corporate,0.28
+04-02-2024,Headphones,Electronics,140,12,South,Individual,0.4
+05-02-2024,Monitor,Electronics,380,2,East,Corporate,0.22
+06-02-2024,Keyboard,Accessories,75,18,West,Individual,0.45
+07-02-2024,Mouse,Accessories,45,22,North,Individual,0.5
+08-02-2024,USB Cable,Accessories,28,35,South,Individual,0.6
+09-02-2024,Phone Case,Accessories,22,55,East,Individual,0.65
+10-02-2024,Screen Protector,Accessories,12,110,West,Individual,0.7
+11-02-2024,Office Chair,Furniture,310,2,North,Corporate,0.18
+12-02-2024,Desk,Furniture,550,1,South,Corporate,0.2
+13-02-2024,Bookshelf,Furniture,240,3,East,Individual,0.25
+14-02-2024,Lamp,Furniture,100,4,West,Individual,0.35
+15-02-2024,Stool,Furniture,95,5,North,Individual,0.4
+16-02-2024,Laptop,Electronics,1300,1,South,Corporate,0.25
+17-02-2024,Phone,Electronics,950,2,East,Individual,0.3
+18-02-2024,Tablet,Electronics,650,2,West,Corporate,0.28
+19-02-2024,Headphones,Electronics,180,6,North,Individual,0.4
+20-02-2024,Monitor,Electronics,450,1,South,Corporate,0.22
